@@ -1,0 +1,6 @@
+/api/v1/auth/**
+/auth/verify-token
+api/v1/room/create
+api/v1/room/join
+api/v1/profile/**
+/api/v1/settleup/add
